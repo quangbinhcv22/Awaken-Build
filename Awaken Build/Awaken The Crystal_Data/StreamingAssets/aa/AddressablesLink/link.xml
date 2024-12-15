@@ -9,6 +9,7 @@
     <type fullname="Abilities.MinionIce_Passive" preserve="all" />
     <type fullname="Abilities.MinionMage_Passive" preserve="all" />
     <type fullname="Abilities.MinionRoyal_Passive" preserve="all" />
+    <type fullname="Abilities.MinionSpawnEnergy" preserve="all" />
     <type fullname="Abilities.Skill_HeroArcher" preserve="all" />
     <type fullname="Abilities.Skill_HeroFireMage" preserve="all" />
     <type fullname="Abilities.Skill_HeroFish" preserve="all" />
@@ -25,6 +26,7 @@
     <type fullname="AI.Actions.AttackRanged" preserve="all" />
     <type fullname="Cards.CardsConfig" preserve="all" />
     <type fullname="Cores.LevelConfig" preserve="all" />
+    <type fullname="Currency.Energy" preserve="all" />
     <type fullname="Entities.Entity" preserve="all" />
     <type fullname="Entities.EntityDetector" preserve="all" />
     <type fullname="Maps.LevelContainer" preserve="all" />
